@@ -20,7 +20,7 @@ The table below shows how the HDA-SynChildFaces compares to related datasets:
   <img src="graphics/hda_childface_comparison_table.jpg" />
 </p>
 
-Contrary to other works, the HDA-SynChildFaces dataset is demographically balanced with respect to several factors such as race and gender. To balance, e.g. race a subject is moved accross learned race-boundaries as illustrated below. 
+Contrary to other works, the HDA-SynChildFaces dataset is demographically balanced concerning several factors such as race and gender. To balance a demographic attribute, for instance, the subject's race, the subject is moved across the learned race boundaries as illustrated below. 
 
 <p align="center">
   <img src="graphics/races_compressed.jpg" />
