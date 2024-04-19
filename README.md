@@ -28,7 +28,7 @@ Contrary to other works, the HDA-SynChildFaces dataset is demographically balanc
 
 ## Download 
 
-Link: https://cloud.h-da.de/s/6d3LssGPE4f4YbE
+Link: https://cloud.h-da.de/s/6d3LssGPE4f4YbE    <br/>
 Password: bK7bBjp8myRs
 
 ## Acknowledgement
