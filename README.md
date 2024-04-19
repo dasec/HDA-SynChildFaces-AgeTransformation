@@ -28,18 +28,18 @@ Contrary to other works, the HDA-SynChildFaces dataset is demographically balanc
 
 ## Download 
 
-TBA
+Link: https://cloud.h-da.de/s/6d3LssGPE4f4YbE
+Password: bK7bBjp8myRs
 
 ## Acknowledgement
 
 If you use this dataset or associated work, please cite the following paper: 
 
 ```
-@article{Falkenberg-HDASynChildFaces-arxiv-2023,
+@article{Falkenberg-HDASynChildFaces-Frontiers-2024,
 	title        = {Child Face Recognition at Scale: Synthetic Data Generation and Performance Benchmark},
 	author       = {M. Falkenberg and A. B. Ottsen and M. Ibsen and C. Rathgeb},
-	year         = {2023},
-	journal      = {arXiv e-prints},
-	pages        = {arXiv:2304.11685}
+	year         = {2024},
+	journal      = {Frontiers in Signal Processing}
 }
 ```
