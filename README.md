@@ -32,6 +32,23 @@ The database is being made available for researchers from 2024 onwards. Interest
 Link: https://cloud.h-da.de/s/pFpfkzbwkniS6gz    <br/>
 Password: bK7bBjp8myRs
 
+## Database structure
+The database folder contains 5 subfolders:
+
+* Accepted: The original adult images post filtering (20+)
+* Age group 0: Transformed images with age 16-13
+* Age group 1: Transformed images with age 13-10
+* Age group 2: Transformed images with age 10-7
+* Age group 3: Transformed images with age 7-4
+* Age group 4: Transformed images with age 4-1
+
+Furthermore, each of the above is divided into a set of reference and probe images.
+
+Demographic attributes is given as part of the filename, following the convention:
+<seed_age_sex_race>
+Where seed can be seen as a type of image ID which can be used to identify the subjects across age groups. 
+For a description of the database generation, refer to the paper. 
+
 ## Acknowledgement
 
 If you use this dataset or associated work, please cite the following paper: 
