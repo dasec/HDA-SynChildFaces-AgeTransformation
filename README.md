@@ -31,6 +31,8 @@ The database is being made available for researchers from 2024 onwards. Interest
 
 Link: https://cloud.h-da.de/s/JigeEDck5Ze5NTf <br/>
 
+If the above link is not working, check the issue for a link to GDrive which will be kept active for some time. If neither is working reach out to the da/sec group.
+
 ## Database structure
 The database folder contains 5 subfolders:
 
