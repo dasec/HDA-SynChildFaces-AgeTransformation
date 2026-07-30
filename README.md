@@ -29,9 +29,8 @@ Contrary to other works, the HDA-SynChildFaces dataset is demographically balanc
 ## Download 
 The database is being made available for researchers from 2024 onwards. Interested researchers can download this database. Any commercial use/distribution of this database is prohibited. All the technical reports and papers that report experimental results from this database should provide acknowledgment and reference (see the Acknowledgement Section).
 
-Link: https://cloud.h-da.de/s/JigeEDck5Ze5NTf <br/>
+Link: https://drive.google.com/drive/folders/1uoeWxrcNW9A9m9TqYStPW9tJZ1Fld2L3?usp=sharing <br/>
 
-If the above link is not working, check the issues for a link to GDrive, uploaded by the author of this repo, which will be kept active for some time. If neither is working try to reach out to an active member of the da/sec group.
 
 ## Database structure
 The database folder contains 5 subfolders:
